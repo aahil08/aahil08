@@ -1,6 +1,5 @@
-## Hi there 👋
 
-Hi there, I’m Aahil 👋
+## Hi there, I’m Aahil 👋
 
 🔭 Currently Working On
 
