@@ -22,4 +22,3 @@ Email: aahil.w24@gmail.com
 LinkedIn: https://www.linkedin.com/in/aahil-kanon-0091131ab/
 ⚡ Fun Fact
 When I’m not working with data or experimenting with ML, you can find me at the Gym or Hiking in the Outback.
--->
