@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**aahil08/aahil08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I’m Aahil 👋
 
-Here are some ideas to get you started:
+🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+MySQL Motor Theft Analysis – Investigating patterns and trends in motor vehicle theft data to provide actionable insights.
+MySQL Baby Name Trend Analysis – Exploring naming trends over time, breaking down popularity by year, region, and other demographics.
+Amazon Product Exploration – Analyzing “things you can buy on Amazon” to understand consumer behavior and product variability.
+🌱 Currently Learning
+
+Machine Learning Models – Delving into Regression Analysis (Linear, Logistic, etc.) to predict outcomes and uncover data-driven insights.
+💬 Ask Me About
+
+MySQL query optimization
+Database design, and data visualization.
+Integrating machine learning models with SQL-based data sources.
+📫 How to Reach Me
+
+GitHub: github.com/aahil08
+Email: aahil.w24@gmail.com
+LinkedIn: https://www.linkedin.com/in/aahil-kanon-0091131ab/
+⚡ Fun Fact
+When I’m not working with data or experimenting with ML, you can find me at the Gym or Hiking in the Outback.
 -->
